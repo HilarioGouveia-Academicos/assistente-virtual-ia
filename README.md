@@ -1,4 +1,4 @@
-# 🤖 Agente Financeiro Inteligente com IA Generativa
+# 🤖 Asssitente Virtual com IA Generativa, especializado em Prestação de Contas Condominial
 
 ## Contexto
 
